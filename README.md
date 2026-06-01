@@ -8,4 +8,4 @@ Além do cadastro, o sistema pode oferecer funcionalidades para listar, consulta
 
 Esse tipo de programa é muito utilizado em comércios, empresas e lojas, pois ajuda a manter os dados organizados, reduz erros e agiliza o acesso às informações dos produtos.
 
-![cad_pessoas](imagens/calculadora.png)
+![cad_pessoas](https://github.com/szallanac/CADPESSOAS.PY/blob/main/cad_pessoas.jpeg)
